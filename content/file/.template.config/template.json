@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Developer Temur",
+  "classifications": ["Console", "File-based app"],
+  "identity": "Dotnet.Uz.Templates.File",
+  "name": "File-based C# console app",
+  "description": "A single-file C# console app runnable with 'dotnet run file.cs'",
+  "shortName": "file",
+  "tags": { "language": "C#", "type": "item" },
+  "sourceName": "FileApp"
+}

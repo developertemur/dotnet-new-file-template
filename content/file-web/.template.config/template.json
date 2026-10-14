@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Developer Temur",
+  "classifications": ["Web", "File-based app"],
+  "identity": "Dotnet.Uz.Templates.FileWeb",
+  "name": "File-based C# web app",
+  "description": "A single-file ASP.NET Core minimal API app runnable with 'dotnet run file.cs'",
+  "shortName": "file-web",
+  "tags": { "language": "C#", "type": "item" },
+  "sourceName": "FileWebApp"
+}
